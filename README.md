@@ -27,5 +27,5 @@
 
 [twitter]: https://twitter.com/NeoParashuram
 [instagram]: https://www.instagram.com/garhwali_monk
-[linkedin]: https://www.linkedin.com/in/anubhav.balodhi
+[linkedin]: https://www.linkedin.com/in/anubhavbalodhi
 [gmail]: mailto:abc.de.gen.y@gmail.com
