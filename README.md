@@ -14,18 +14,18 @@
 
 
 
+
+![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABcDexter&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABcdexter&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Ping me - 
 
 [<img align="left" alt="Anubhav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Anubhav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Anubhav | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-
-![Anubhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABcDexter&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ABcdexter&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
