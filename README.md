@@ -1,8 +1,7 @@
 ## Howdy, Anubhav here!
 
 ![](https://komarev.com/ghpvc/?username=ABcDexter) ![GitHub followers](https://img.shields.io/github/followers/AbcDexter?label=Follow&style=social) 
-[![Years Badge](https://badges.pufler.dev/years/ABcDexter)](https://badges.pufler.dev/years/AbcDexter)
-[![Repos Badge](https://badges.pufler.dev/repos/ABcDexter)](https://badges.pufler.dev/repos/ABcDexter)
+
 
  
 
