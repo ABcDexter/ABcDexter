@@ -8,14 +8,14 @@ boardgame strategies, languages, sci-fi, sketching, teaching, and quizzing
 __________________________________________
 
 Interested in (non-exhaustive list) <br>
-Time, free-will, mind, Consciousness, meditation, Vedanta, Mathematics of ancient India, fractals, recursion, Mobius loop, Klein bottles, DCAU, MCU, Rubik's cube, algorithms, microbial biochemistry, historical linguistics, Thermodynamics, particle physics, Van Gogh, Dev Anand movies, Hindi poetry, hip-hop, linux, BTC, EVs, bushido, social psychology, game theory, Chess, graph theory, neural networks, AGI, anything and everything under the Sun, even the Sun itself. 
+Time, free-will, mind, Consciousness, meditation, Vedanta, Mathematics of ancient India, fractals, recursion, Mobius loop, Klein bottles, DCAU, MCU, Rubik's cube, algorithms, microbial Biochemistry, historical Linguistics, Thermodynamics, particle Physics, Van Gogh, Dev Anand movies, Hindi poetry, hip-hop, linux, BTC, EVs, bushido, social psychology, game theory, Chess, graph theory, neural networks, AGI, anything and everything under the Sun, even the Sun itself. 
 __________________________________________
 
-Likes books, travelling, and nourishing the inner child...
- 
-Current read : The Art of Problem
-Fav animated show : Dexter's Laboratory 
-have travelled across 21 cities and spent time at a village in Nainital during first 2 lockdowns 
+Likes books, travelling, and nourishing the inner child... <br>
+
+Current read : [The Art of Thinking Clearly](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly)<br>
+Fav animated show : Dexter's Laboratory <br>
+have travelled across 21 cities and spent time at a village in Nainital during first 2 lockdowns...<br>
 
 __________________________________________
 
