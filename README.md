@@ -41,4 +41,4 @@ __________________________________________
 
 [instagram]: https://www.instagram.com/garhwali_monk
 [linkedin]: https://www.linkedin.com/in/anubhavbalodhi
-[gmail]: mailto:abc.de.gen.y@gmail.com
+[gmail]: mailto:anubhav.balodhi@icloud.com
